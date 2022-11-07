@@ -1,3 +1,5 @@
+package lecture01;
+
 public class lecture02 {
     public static void main (String[] args){
         int studentNumber = 2210660;

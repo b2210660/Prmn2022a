@@ -1,3 +1,5 @@
+package lecture01;
+
 public class lecture05 {
     public static void main(String[] args) {
         int[] score = {41, 85, 72, 38, 80};

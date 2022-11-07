@@ -1,3 +1,5 @@
+package lecture01;
+
 class Totalling {
     int min(int score[]) {
         int lowest = 100;
